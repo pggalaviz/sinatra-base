@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 ruby '2.6.5'
 
-gem 'sinatra', '~> 2.0'
+gem 'sinatra', '~> 2.2'
 
 gem 'rack-attack', '~> 6.2'
 gem 'rack_csrf', '~> 2.6'
